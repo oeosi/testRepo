@@ -18,4 +18,5 @@
 3. `git push -u origin main`
 ## 参考资料
 查看端口号：[在windows中如何查看代理的地址和端口_怎么查看自己电脑的代理地址-CSDN博客](https://blog.csdn.net/qq_55888300/article/details/131498092)
+
 git配置端口：[Git 配置代理，解决 "Failed to connect to github.com port 443" 及 "Recv failure: Connection was reset" 等问题 - 知乎](https://zhuanlan.zhihu.com/p/648164862)
